@@ -1,0 +1,30 @@
+.divPrincipal {
+  height: 75vh;
+}
+
+.divPrincipal-section {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-sectionName h1 {
+  color: rgb(255, 236, 202);
+  font-size: 7rem;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+.section-sectionInfo {
+  width: 780px;
+  text-align: center;
+}
+
+.section-sectionInfo p {
+  color: rgb(255, 255, 255);
+  font-size: 1.6rem;
+  line-height: 30px;
+  letter-spacing: 1.1px;
+}

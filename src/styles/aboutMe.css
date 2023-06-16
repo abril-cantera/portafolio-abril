@@ -1,0 +1,41 @@
+.divPrimary-aboutMe {
+  height: 75vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.sectionInfo-aboutMe {
+  padding-top: 15px;
+  /* background-color: rgba(39, 40, 42, 0.44); */
+  height: 100%;
+  width: 60%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sectionImg-aboutMe {
+  height: 40vh;
+  padding: 10px;
+}
+
+.sectionImg-aboutMe img {
+  height: 100%;
+}
+
+.sectionInfo {
+  padding: 0 15px 10px 15px;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.sectionInfo p {
+  font-size: 1.6rem;
+  color: white;
+  text-align: center;
+  line-height: 25px;
+}

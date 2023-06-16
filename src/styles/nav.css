@@ -1,0 +1,43 @@
+header {
+  padding-top: 15px;
+  height: 12vh;
+}
+
+.header-div__nav {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-sectionMenu a {
+  color: rgb(255, 255, 255);
+  padding: 0 15px 0 15px;
+  font-size: 1.4rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.nav-sectionMenu a:hover {
+  text-decoration: underline;
+}
+
+.nav-sectionButton div {
+  background-color: rgb(255, 236, 202);
+  width: 175px;
+  height: 40px;
+  border: none;
+  border-radius: 7px;
+  font-family: 'Bitter', serif;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-sectionButton div a {
+  color: black;
+  font-family: 'Bitter', serif;
+  font-size: 1.4rem;
+  text-decoration: none;
+}

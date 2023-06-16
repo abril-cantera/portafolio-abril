@@ -1,0 +1,21 @@
+.divPrincipal-contact {
+  position: absolute;
+  top: 30%;
+  width: 40px;
+  height: 200px;
+  background-color: white;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.sectionContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.containerIcon {
+  font-size: 2rem;
+}
